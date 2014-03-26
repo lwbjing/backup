@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[http://img.f2e.taobao.net/img.png_${1:200}x${2:200}.jpg]]></content>
+	<tabTrigger>src</tabTrigger>
+</snippet>

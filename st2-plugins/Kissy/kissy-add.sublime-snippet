@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[KISSY.add('${1:mode}',function(S){
+	var S = KISSY, D = S.DOM, E = S.Event, \$ = S.all;
+	function ${2:Mode}(){
+		//to do
+	}
+	S.augment(${2:Mode},{
+		init: function(){
+			//todo
+		},
+		method: function(){
+			//todo
+		}
+	})
+	return ${2:Mode};
+},{attach:false, requires:[${0:${3:'datalazyload',}${4:'switchable',}${5:'template',}${6:'market/p4p'}}]});]]></content>
+	<tabTrigger>kissy</tabTrigger>
+	<description>KISSY Add</description>
+</snippet>

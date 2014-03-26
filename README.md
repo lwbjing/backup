@@ -1,4 +1,4 @@
-backup
+备份
 ======
 
-backup
+ * st2-plugins -> sublime text 备份

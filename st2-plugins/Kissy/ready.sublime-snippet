@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[KISSY.ready(function(S) {
+    ${0://TO DO}
+});]]></content>
+	<tabTrigger>ready</tabTrigger>
+	<description>KISSY - ready</description>
+	<scope>source.js</scope>
+</snippet>

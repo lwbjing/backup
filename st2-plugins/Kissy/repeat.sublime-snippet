@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[<?php _tms_repeat_begin('{"name":"$1","title":"$2","group":"$2","row":"$3"}'); ?>
+<?php _tms_repeat_end(); ?>]]></content>
+	<tabTrigger>repeat</tabTrigger>
+</snippet>

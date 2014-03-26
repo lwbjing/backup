@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[_tms_text('{"name":"$1","title":"$2","group":"$3","row":"1","defaultRow":"1"}');]]></content>
+	<tabTrigger>text</tabTrigger>
+</snippet>

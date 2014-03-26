@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[KISSY.config({
+    packages:[{
+        name:"market/p4pAuto",
+        tag:"20120531",
+        path:"http://a.tbcdn.cn/p/market/r/120507/",
+        charset:"utf-8"
+    }]
+})]]></content>
+	<tabTrigger>kissy</tabTrigger>
+	<description>KISSY Config</description>
+</snippet>

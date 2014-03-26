@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[S.io({
+	dataType:'${1:jsonp,script,json,html,text,xml}',
+	url:"${2:url}", 
+	data:{
+		${3:'method':'method',
+		'id':'id'}
+	},
+	jsonp:"${4:callback}",    
+	success:function (data) {
+		${0://todo}
+	}	
+})]]></content>
+	<tabTrigger>kissy</tabTrigger>
+	<description>KISSY IO</description>
+</snippet>

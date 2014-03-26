@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[/**
+ * @ ${1:CustomTool init}
+ * @ wb-liuwenbing  
+ * @ ${2:2013年5月20日}
+ */]]></content>
+	<tabTrigger>note</tabTrigger>
+</snippet>

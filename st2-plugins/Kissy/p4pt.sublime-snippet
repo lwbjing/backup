@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[<script type="text/html" id="J_p4pItemTmpl">
+<%
+var parts = itemURL.split('id=')[1] || '';
+    itemId = parts.split('&')[0];
+%>
+<li>
+	<a href="{{eurl}}" target="_blank" title="{{itemTitle}}"><img src="{{pictureUrl}}" /></a>
+	<p>{{itemTitle}}</p>
+	<div>
+		<span>原价：<% print((originalPrice / 100).toFixed(2)); %></span>
+		<span>活动价:<em><% print((activityPrice / 100).toFixed(2)); %></em></span>
+	</div>
+</li>
+</script>]]></content>
+	<tabTrigger>p4p</tabTrigger>
+	<description>p4pTemplates</description>
+</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[_tms_custom('{"name":"$1","title":"$2","group":"$3","row":"$4","defaultRow":"$4","fields":"$5"}');]]></content>
+	<tabTrigger>custom</tabTrigger>
+</snippet>

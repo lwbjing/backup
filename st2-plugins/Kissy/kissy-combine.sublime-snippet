@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[KISSY.use('market/combine', function(S, Combo){
+	Combo.config({
+		mods: [
+			[${4:${5:'switchable',}${6:'datalazyload',}${7:'template'}}],
+			[${1:${2:'market/addfav',}${3:'market/p4p'}}]
+		]
+	});
+})]]></content>
+	<tabTrigger>kissy</tabTrigger>
+	<description>KISSY Combine</description>
+</snippet>

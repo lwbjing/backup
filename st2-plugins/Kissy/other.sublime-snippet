@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[<style type="text/css">
+.J_other h3{ width:990px; height:70px; background:url(images/J_other.jpg) no-repeat;}
+.J_other ul{ background:#fff;}
+.J_other ul li{ width:230px; height:160px; overflow:hidden; float:left; _display:inline; margin:5px 8px;}
+.J_other ul li img{ width:230px; height:160px; vertical-align:top;}
+</style>
+<div class="J_other">
+	<h3></h3>
+	<ul class="clearfix">
+		<li><a href="" title=""><img src="images/other_pic.jpg" /></a></li>
+		<li><a href="" title=""><img src="images/other_pic.jpg" /></a></li>
+		<li><a href="" title=""><img src="images/other_pic.jpg" /></a></li>
+		<li><a href="" title=""><img src="images/other_pic.jpg" /></a></li>
+		<li><a href="" title=""><img src="images/other_pic.jpg" /></a></li>
+		<li><a href="" title=""><img src="images/other_pic.jpg" /></a></li>
+	</ul>
+</div>]]></content>
+	<tabTrigger>other</tabTrigger>
+</snippet>
