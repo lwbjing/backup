@@ -1,0 +1,23 @@
+{
+	list: [
+		'ConvertToUTF8',
+		'BufferScroll',
+		'JsFormat',
+		'MarkDown',
+		'HTML-CSS-JS Prettify',
+		'Minify',
+		'SublimeCodeIntel',
+		'vue-syntax-highlight',
+		'CSS Format',
+		'DocBlockr',
+		'jQuery',
+		'HTML5',
+		'JSX',
+		'LESS',
+		'SideBarEnhancements',
+		'Theme - Gravity',
+		'Vue Syntax Highlight',
+		'Vuejs Complete Package'
+		'Vuejs Snippets'
+	]
+}
