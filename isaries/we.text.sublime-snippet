@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[<text class="${1}">${2}</text>]]></content>
+  <tabTrigger>text</tabTrigger>
+  <description>wechat.dev.text</description>
+  <scope>text.html</scope>
+</snippet>
+
+
+
+

@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[<scroll-view class="${1}">
+  ${2}
+</scroll-view>]]></content>
+  <tabTrigger>scroll-view</tabTrigger>
+  <description>wechat.dev.scroll-view</description>
+  <scope>text.html</scope>
+</snippet>
+
+
+
+

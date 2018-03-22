@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[<view class="${1}">
+  ${2}
+</view>]]></content>
+  <tabTrigger>view</tabTrigger>
+  <description>wechat.dev.view</description>
+  <scope>text.html</scope>
+</snippet>
+
+
+
+

@@ -1,0 +1,32 @@
+{
+	"auto_complete_commit_on_tab": false,
+	"auto_complete_with_fields": false,
+	"color_scheme": "Packages/Theme - Gravity/One Dark Gravity.tmTheme",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".idea",
+		".vscode"
+	],
+	"font_face": "Monaco",
+	"font_size": 15,
+	"gravity_tab_font_small": true,
+	"highlight_line": true,
+	"highlight_list": true,
+	"ignored_packages":
+	[
+		"CSS",
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 0,
+	"tab_size": 2,
+	"theme": "Gravity One.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"update_check": false,
+	"word_separators": "./\\()\"':,.;<>~!@#$%^&*|+=[]{}`~?",
+	"word_wrap": true
+}
